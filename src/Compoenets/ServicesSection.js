@@ -4,7 +4,7 @@ import diaphragm from '../img/diaphragm.svg'
 import money from '../img/money.svg'
 import teamwork from '../img/teamwork.svg'
 import home2 from '../img/home2.png'
-import {About, Description, Hide, Image} from '../Styles'
+import {About, Description, Image} from '../Styles'
 import styled from 'styled-components'
 
 function ServicesSection() {
